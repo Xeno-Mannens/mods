@@ -1,0 +1,1101 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:flower_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:window": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/red_sandstone": {
+    "criteria": {
+      "has_rsandstone": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:stove": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobblestone": {
+    "criteria": {
+      "has_this": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_stairs": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:kitchen_sink": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cooking_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2023-12-17 20:39:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wood_fired_oven": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:red_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_boat": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_mossy": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_lattice": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_jar": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:dough": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_cbl_deepslate": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:faucet": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:stripped_cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mud_brick": {
+    "criteria": {
+      "has_mud_brick": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_andesite": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_diorite": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_apron": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2023-12-17 20:39:07 +0000"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam_stairs": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:flower_box": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_prismarine": {
+    "criteria": {
+      "has_dark_prismarine": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_door": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:apple_cupcake": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_button": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:shelf": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_sign": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/brick": {
+    "criteria": {
+      "has_bricks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_press": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_granite": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "ceiling": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2023-12-17 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
